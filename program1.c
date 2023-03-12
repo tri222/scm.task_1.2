@@ -1,7 +1,7 @@
 # include<stdio.h>
 int main()
 {
-    printf("Hello i am vartika singh");
+    printf("Hello i am tritiya");
     
     
 }

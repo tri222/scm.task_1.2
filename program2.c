@@ -5,5 +5,6 @@ int main()
     printf("enter the number :: ");
     scanf("%d %d",&a,&b);
     printf("add = %d",a+b);
+    printf("end")
 
 }
